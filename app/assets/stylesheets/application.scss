@@ -1,1 +1,13 @@
- @import "bootstrap";
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+
+.navbar-custom {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.email-initial {
+    background-color: white;
+    border-radius: 4px;
+}

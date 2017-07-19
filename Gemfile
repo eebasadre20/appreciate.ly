@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.5'
 # OWN GEMS
 
 gem 'devise'
-gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
+gem 'bootstrap-sass', '~> 3.3.6'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.9.9'
 
